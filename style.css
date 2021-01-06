@@ -1,0 +1,218 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    float: right;
+    color: #333;
+    font-size: 20px;
+}
+
+.onlynav {
+    overflow: hidden;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.onlynav a {
+    padding: 14px 16px;
+}
+
+.half-width {
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+#line1 {
+    color: #363958;
+    font-size: 35px;
+}
+
+#line2 {
+    color: #FF8367;
+    font-size: 35px;
+}
+
+.Hire {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #F56260, #FA7261);
+    padding: 15px 35px;
+    border-radius: 8px;
+    color: whitesmoke;
+}
+
+.standard {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.intro {
+    padding-bottom: 25px;
+}
+
+#about {
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+
+.resume {
+    border: 3px solid;
+    text-decoration: none;
+    padding: 15px 35px;
+    border-radius: 8px;
+    color: black;
+    font-weight: 600;
+}
+
+section {
+    height: 500px;
+    padding-bottom: 100px;
+}
+
+#section0 {
+    padding-bottom: none;
+    height: 100px;
+}
+
+#section3 {
+    background: #F8F9FC;
+    background-image: url("background/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.heading {
+    text-align: center;
+}
+
+#latest {
+    color: #F46060;
+    font-size: 30px;
+}
+
+#worked {
+    color: #363958;
+}
+
+.imgdiv {
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 80%;
+    background-color: white;
+    margin-top: 60px;
+}
+
+.heading {
+    padding-top: 80px;
+}
+
+.imgdiv img {
+    height: 250px;
+    width: 250px;
+}
+
+#projectname {
+    color: #363958;
+}
+
+#skills {
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.skilimg img {
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.bgimg {
+    background-image: url("background/back.png");
+    background-repeat: no-repeat;
+    background-size: 800px, 200px;
+    background-position: center;
+    height: 200px;
+}
+
+#work {
+    font-size: 40px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.chat {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, cyan, tomato);
+    padding: 15px 35px;
+    border-radius: 8px;
+    color: black;
+    margin-left: 200px;
+    font-weight: 900;
+}
+
+#section5 {
+    height: 250px;
+}
+
+footer h3 {
+    color: #696871;
+    text-align: center;
+}
+
+.socl {
+    margin-left: 420px;
+}
+
+.socl img {
+    height: 50px;
+    width: 50px;
+}
+
+#skills {
+    color: teal;
+    font-weight: 900;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 15px 35px;
+    border-radius: 8px;
+    color: black;
+    font-size: 25px;
+}
+
+#section2 .half-width a {
+    display: inline-block;
+    background-image: url("social/download.png");
+    border: 2px solid;
+    border-radius: 10px;
+    border-image: linear-gradient(180deg, red, orange);
+    border-image-slice: 1;
+    background-size: 20px, 20px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
